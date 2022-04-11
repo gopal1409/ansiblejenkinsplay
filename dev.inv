@@ -1,2 +1,2 @@
-[webservers]
+[webserver]
 tomcatserver ansible_user=root
