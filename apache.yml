@@ -1,6 +1,6 @@
 # apache.yml
 ---
-- hosts: webserver
+- hosts: tomcatserver
   become: True
   tasks:
     - name: Install packages
